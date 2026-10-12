@@ -57,20 +57,16 @@ O formulário não envia mensagens enquanto `WHATSAPP_NUMBER` estiver vazio. Par
 ## 📸 Capturas de tela
 
 ### Página inicial
-
-![Página inicial](assets/images/screenshot-home.jpg)
+![Página inicial](imagens/screenshot-home.jpg)
 
 ### Versão mobile
-
-![Versão mobile](assets/images/screenshot-mobile.jpg)
+![Versão mobile](imagens/screenshot-mobile.jpg)
 
 ### Sobre a empresa
-
-![Sobre a empresa](assets/images/screenshot-sobre.jpg)
+![Sobre a empresa](imagens/screenshot-sobre.jpg)
 
 ### Projetos
-
-![Projetos](assets/images/screenshot-projetos.jpg)
+![Projetos](imagens/screenshot-projetos.jpg)
 
 ## ⚠️ Aviso
 
