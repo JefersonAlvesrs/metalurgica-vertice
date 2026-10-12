@@ -6,7 +6,7 @@ Site institucional **fictício e demonstrativo** para uma empresa do setor metal
 
 Acesse o site publicado:
 
-**[Inserir link do GitHub Pages após publicar]**
+https://jefersonalvesrs.github.io/metalurgica-vertice/
 
 ## ✨ Funcionalidades
 
@@ -16,11 +16,13 @@ Acesse o site publicado:
 - Formulário demonstrativo para preparar mensagem no WhatsApp
 - Botão de voltar ao topo
 - Imagens industriais ilustrativas locais em `assets/images`
-- Sem backend e sem coleta de dados
+- Sem backend e sem coleta de dados por servidor
 
 ## 🛠️ Tecnologias
 
-HTML5, CSS3 e JavaScript (sem frameworks).
+- HTML5
+- CSS3
+- JavaScript (sem frameworks)
 
 ## 📁 Estrutura
 
@@ -33,10 +35,14 @@ metalurgica-vertice/
 │   └── images/
 │       ├── hero.jpg
 │       ├── sobre.jpg
-│       ├── projeto-estrutura.jpg
+│       ├── projeto-estrutura.png
 │       ├── projeto-pecas.jpg
 │       ├── projeto-solda.jpg
-│       └── favicon.svg
+│       ├── favicon.svg
+│       ├── screenshot-home.jpg
+│       ├── screenshot-mobile.jpg
+│       ├── screenshot-sobre.jpg
+│       └── screenshot-projetos.jpg
 └── README.md
 ```
 
@@ -50,8 +56,22 @@ O formulário não envia mensagens enquanto `WHATSAPP_NUMBER` estiver vazio. Par
 
 ## 📸 Capturas de tela
 
-Adicione as capturas reais do site à pasta `assets/images` antes de incluí-las no README.
+### Página inicial
+
+![Página inicial](assets/images/screenshot-home.jpg)
+
+### Versão mobile
+
+![Versão mobile](assets/images/screenshot-mobile.jpg)
+
+### Sobre a empresa
+
+![Sobre a empresa](assets/images/screenshot-sobre.jpg)
+
+### Projetos
+
+![Projetos](assets/images/screenshot-projetos.jpg)
 
 ## ⚠️ Aviso
 
-**Projeto conceitual.** Metalúrgica Vértice, seus serviços e seus projetos são representações fictícias. As imagens são representações visuais geradas por IA para este portfólio; não documentam trabalhos realizados. Não há contato comercial real.
+**Projeto conceitual.** A Metalúrgica Vértice, seus serviços e seus projetos são representações fictícias. As imagens industriais são ilustrativas e geradas por inteligência artificial; não documentam trabalhos realizados. Não há contato comercial real.
